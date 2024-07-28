@@ -1,0 +1,35 @@
+{
+    "name": "rmitesh/builder-block",
+    "description": "This is builder-block component for Filament",
+    "type": "library",
+    "keywords": [
+        "rmitesh",
+        "laravel",
+        "builder-block"
+    ],
+    "require": {
+        "filament/filament": "^3.2",
+        "filament/forms": "^3.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rmitesh\\BuilderBlock\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mitesh Rathod",
+            "email": "miteshr32@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Rmitesh\\BuilderBlock\\BuilderBlockServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
