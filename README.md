@@ -1,6 +1,7 @@
 # Builder Block
-
-![builder-block](./assets/logo.png)
+<p align="center">
+<img align="center" alt="Latest Stable Version" src="./assets/logo.png" />
+</p>
 
 <p align="center">
 <a href="https://packagist.org/packages/rmitesh/builder-block"><img alt="Latest Stable Version" src="https://img.shields.io/packagist/v/rmitesh/builder-block.svg?style=for-the-badge"></a>
@@ -12,7 +13,7 @@
 Builder Block is collection of prebuilt Builder block of Filament for the CMS pages.
 Everything will store in JSON format, using this data you can display content dynamically.
 
-If you are using ![filament-fabricator][https://github.com/Z3d0X/filament-fabricator] then this is perfact package for your dynamic pages.
+If you are using <a href="https://github.com/Z3d0X/filament-fabricator">Filament fabricator</a> then this is perfact package for your dynamic pages.
 
 It comes with following blocks:
 
